@@ -70,6 +70,9 @@ If you'd like to contribute to this project, please follow these steps:
 
 5. Open a pull request on the original repository to merge your changes.
 
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+## Coder [Alexbebe](https://github.com/Poxlm)
+## Idea and designer [TnYtCoder](https://github.com/TnYtCoder)
